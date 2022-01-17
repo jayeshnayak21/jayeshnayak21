@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jayeshnayak21
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
